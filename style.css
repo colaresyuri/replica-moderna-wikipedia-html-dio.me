@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+
+  .header {
+    background-color: #d1d2d4;
+    padding: 10px;
+  }
+
+  .header-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    margin-bottom: 10px;
+  }
+
+  img{
+    width: 60px;
+    height: 60px;
+    border-radius:1%;
+    margin-right: 30px;
+  }
+
+  #games{
+    width: 150px;
+    height: 150px;
+    float: right;
+    padding: 30px;
+  }
